@@ -1,4 +1,10 @@
 
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/tarkpras/tarkesh.git
+git push -u origin master
 VBoxManage.exe setextradata Hadoop2.6OracVM 1920x1200x32
 
 
